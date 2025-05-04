@@ -1,0 +1,86 @@
+Data Structures
+
+	Arrays, Linked Lists (Singly, Doubly)
+
+	Stacks, Queues (Circular, Priority)
+
+	Trees (Binary Trees, BSTs, Heaps, AVL Trees, Segment Trees, Tries)
+
+	Graphs (Adjacency Matrix/List)
+
+	Hash Tables, Hash Maps
+
+	Disjoint Sets (Union-Find)
+
+Algorithms
+
+	Sorting (Merge Sort, Quick Sort, Bubble Sort, etc.)
+
+	Searching (Binary Search, DFS, BFS)
+
+	Dynamic Programming (Knapsack, LCS, etc.)
+
+	Greedy Algorithms
+
+	Graph Algorithms (Dijkstra, Kruskal, Prim, Topological Sort)
+
+	Backtracking (N-Queens, Sudoku Solver)
+
+	Divide & Conquer
+
+	Bit Manipulation
+
+	Sliding Window, Two Pointer Techniques
+
+
+/algorithms-and-ds
+│
+├── data_structures/
+│ ├── arrays.py
+│ ├── linked_list.py
+│ ├── stack.py
+│ ├── queue.py
+│ ├── binary_tree.py
+│ ├── heap.py
+│ └── trie.py
+│
+├── algorithms/
+│ ├── sorting/
+│ │ ├── bubble_sort.py
+│ │ ├── merge_sort.py
+│ │ └── quick_sort.py
+│ ├── searching/
+│ │ ├── binary_search.py
+│ │ └── linear_search.py
+│ ├── graph/
+│ │ ├── bfs.py
+│ │ ├── dfs.py
+│ │ └── dijkstra.py
+│ ├── dp/
+│ │ ├── knapsack.py
+│ │ └── longest_common_subsequence.py
+│ └── greedy/
+│ └── activity_selection.py
+│
+├── advanced/
+│ └── multi_armed_bandit/
+│ ├── epsilon_greedy.py
+│ ├── ucb.py
+│ ├── thompson_sampling.py
+│ └── README.md
+│
+├── problems/
+│ ├── two_sum.md
+│ ├── longest_substring.py
+│ └── leetcode_solutions/
+│ └── ...
+│
+├── notebooks/
+│ └── graph_algorithms.ipynb
+│
+├── notes/
+│ ├── complexity_cheatsheet.md
+│ └── recursion_vs_iteration.md
+│
+├── README.md
+└── LICENSE
