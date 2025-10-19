@@ -33,7 +33,7 @@ Algorithms
 	Sliding Window, Two Pointer Techniques
 
 
-/algorithms-and-ds
+/programming-handbook
 │
 ├── data_structures/
 │ ├── arrays.py

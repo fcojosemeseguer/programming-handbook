@@ -1,0 +1,45 @@
+Algorithms
+
+
+-1- Basic Techniques 
+
+├── 1.Sorting 
+├── 2.Complete Search (Backtracking, ...)
+├── 3.Greedy Algorithms 
+├── 4.Dynamic Programming
+├── 5.Amortized Analyses (Two pointers method, ...)
+├── 6.Range queries
+└── 7.Bit manipulation
+
+
+-2-
+
+Graph Algorithms
+
+├── 1.Graph Traversal (DFS, BFS,, ...)
+├── 2.Shortest Paths (Dijkstra's ...)
+├── 3.Tree algorithms (Binary Tree)
+├── 4.Spanning trees
+├── 5.Directed graphs
+├── 6.Strong connectivity
+├── 7.Tree queries
+├── 8.Paths and circuits
+└── 9.Flows and cuts
+
+
+-3-
+
+Advanced topics
+
+├── 1.Number Theory
+├── 2.Combinatorics
+├── 3.Matrices
+├── 4.Probability (Markov Chains)
+├── 5.Game Theory
+├── 6.String Algorithms
+├── 7.Square root algorithms
+├── 8.Segment trees
+├── 9.Geometry
+├── 10.Sweep line algorithms
+└── 11.Flows and cuts
+
