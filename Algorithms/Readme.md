@@ -10,10 +10,11 @@ A comprehensive collection of algorithms organized by category and topic.
 ├── 1. Sorting  
 ├── 2. Complete Search (Backtracking, ...)  
 ├── 3. Greedy Algorithms  
-├── 4. Dynamic Programming  
-├── 5. Amortized Analyses (Two Pointers Method, ...)  
-├── 6. Range Queries  
-└── 7. Bit Manipulation
+├── 4. Divide And Conquer Algorithms  
+├── 5. Dynamic Programming  
+├── 6. Amortized Analyses (Two Pointers Method, ...)  
+├── 7. Range Queries  
+└── 8. Bit Manipulation
 ```
 
 ---

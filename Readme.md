@@ -25,6 +25,7 @@ This repository is divided into three major sections:
 | **1. Sorting** | Standard and advanced algorithms — *Merge Sort, Quick Sort, Heap Sort*, etc. |
 | **2. Complete Search** | Exhaustive search methods — *Brute Force*, *Backtracking*. |
 | **3. Greedy Algorithms** | Problems solvable via locally optimal choices — *Interval Scheduling, Huffman Coding*. |
+| **4. Divide and Conquer** | Breaking problems into smaller ones and solving them — *FindMax, MergeSort...*. |
 | **4. Dynamic Programming** | Breaking problems into overlapping subproblems — *Knapsack, LIS, DP on Trees*. |
 | **5. Amortized Analyses** | Efficient algorithms over multiple operations — *Two Pointers, Sliding Window*. |
 | **6. Range Queries** | Efficient querying over data ranges — *Prefix Sums, Fenwick Tree basics*. |
