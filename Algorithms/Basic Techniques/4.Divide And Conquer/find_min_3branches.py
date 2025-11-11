@@ -2,7 +2,7 @@
 
 
 def FindMinElement(lst):
-    if not lst:
+    if len(lst) == 0:
         return None
     return FindMin(0, len(lst) - 1, lst)
 
